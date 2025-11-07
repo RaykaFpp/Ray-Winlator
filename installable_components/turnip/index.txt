@@ -1,1 +1,2 @@
-
+adrenotools-turnip25.3.0_R3_Auto.tzst
+adrenotools-turnip25.3.0_R3_Gmem.tzst
